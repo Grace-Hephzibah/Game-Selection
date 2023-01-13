@@ -23,7 +23,7 @@ with c4:
 
 st.write("---------------------")
 
-st.write("Repo Link: ")
+st.write("Repo Link: https://github.com/Grace-Hephzibah/Game-Selection")
 
 text = "*By Jael Lois & Grace Hephzibah For @MLH_GHW_2023Jan - Finding And Using Libraries*"
 style = '<p style="font-family: cursive; text-align: center;">' + text + '</p>'
